@@ -48,3 +48,8 @@ Backup Apks/
 # generated native folders
 /ios
 /android
+
+# IDE and tool-specific folders
+.vscode/
+.claude/
+.continue/
